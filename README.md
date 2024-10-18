@@ -6,23 +6,23 @@ The aim of this project is to gain insights into Amazon's sales data, focusing o
 ## Dataset Description
 This dataset contains sales transactions from three branches of Amazon, consisting of 17 columns and 1000 rows. Below is an overview of the dataset:
 Columns:
-invoice_id:- Sales invoice ID
-branch:- Branch where the sale occurred
-city:- City where the branch is located
-customer_type:- Customer type (e.g., Member, Normal)
-gender:- Customer gender
-product_line:- Product category sold
-unit_price:- Price per unit
-quantity:- Number of units sold
-VAT:- Tax applied on the sale
-total:- Total amount paid (including VAT)
-date:- Date of the transaction
-time:- Time of the transaction
-payment_method:- Payment method used
-cogs:- Cost of goods sold
-gross_margin_percentage:- Gross margin percentage
-gross_income:- Gross income generated
-rating:- Customer rating of the transaction
+-invoice_id:- Sales invoice ID
+-branch:- Branch where the sale occurred
+-city:- City where the branch is located
+-customer_type:- Customer type (e.g., Member, Normal)
+-gender:- Customer gender
+-product_line:- Product category sold
+-unit_price:- Price per unit
+-quantity:- Number of units sold
+-VAT:- Tax applied on the sale
+-total:- Total amount paid (including VAT)
+-date:- Date of the transaction
+-time:- Time of the transaction
+-payment_method:- Payment method used
+-cogs:- Cost of goods sold
+-gross_margin_percentage:- Gross margin percentage
+-gross_income:- Gross income generated
+-rating:- Customer rating of the transaction
 
 ## Analytical Approach
 1. Data Wrangling:
